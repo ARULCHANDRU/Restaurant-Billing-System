@@ -19,7 +19,7 @@ This project is a complete, web-based billing application for restaurants built 
 - **Data Analysis:** pandas
 
 ## Project Structure
-
+```
 restaurant_billing/
 ├── app.py              # Main application entry point
 ├── db/
@@ -34,7 +34,7 @@ restaurant_billing/
 │   └── db_utils.py
 ├── README.md
 └── requirements.txt
-
+```
 
 ## How to Set Up and Run
 
